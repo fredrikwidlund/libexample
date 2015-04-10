@@ -1,5 +1,6 @@
 libexample
 ==========
+http://fredrikwidlund.github.io/libexample/
 
 Library template
 
