@@ -2,7 +2,7 @@ libexample
 ==========
 http://fredrikwidlund.github.io/libexample/
 
-Library template
+Library template including unit testing, code coverage, memory leakage tests, and continuous integration tests.
 
 Installation
 ------------
